@@ -37,5 +37,5 @@ The current earliest version is *Unity 2018.2.0f2*.
 This work is licensed under GPL GNU Public License v3.0. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-* [CHFHHD](https://github.com/chfhhd) - my examiner and mentor for the thesis
+* [Ch. Hahn](https://github.com/chrhhn) - my examiner and mentor for the thesis
 * [LotteMakesStuff](https://github.com/LotteMakesStuff) - because she is awesome and I learned a lot about editor scripting from her!
