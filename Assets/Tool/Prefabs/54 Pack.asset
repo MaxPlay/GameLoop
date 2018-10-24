@@ -1,0 +1,286 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfaae572eb79a5247b9e4670bc74acc7, type: 3}
+  m_Name: 54 Pack
+  m_EditorClassIdentifier: 
+  cards:
+  - pack: {fileID: 11400000}
+    face: 0
+    sprite: {fileID: 21300000, guid: 580953db5fc8cc94d93a67923f8bd297, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 1
+    sprite: {fileID: 21300000, guid: 34a30b1ee2cd8654e9ecc78baf761560, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 2
+    sprite: {fileID: 21300000, guid: d6ac9edf901302d48aa92ff9ef01450e, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 3
+    sprite: {fileID: 21300000, guid: 034af77c80f84ed45bc5a32891bb1b19, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 4
+    sprite: {fileID: 21300000, guid: 231ddac26c6bd45469ce15269dc27754, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 5
+    sprite: {fileID: 21300000, guid: 1d2fb0b66a51ca34c994adccc243c2eb, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 6
+    sprite: {fileID: 21300000, guid: 95b97f2cac02d6446bf07eeca64dc9ab, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 7
+    sprite: {fileID: 21300000, guid: 7f2e122816ff6554ea382fa5f72d36a2, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 8
+    sprite: {fileID: 21300000, guid: 7682e955cf46847449b551e7285c922c, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 9
+    sprite: {fileID: 21300000, guid: 0ae48797af1958d40acc79806ecf9b1d, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 10
+    sprite: {fileID: 21300000, guid: f02c0fb016975af4c9c624cbc35e1925, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 11
+    sprite: {fileID: 21300000, guid: f9cb6e607bfbf1a48bb6bccd2b4464d7, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 12
+    sprite: {fileID: 21300000, guid: 8645360d8965cc44392379c54113ce3a, type: 3}
+    suit: 1
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 0
+    sprite: {fileID: 21300000, guid: 9d630f70410290a4d8d432ad8d488de6, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 1
+    sprite: {fileID: 21300000, guid: 76d5f901086a9744ca8fffd608180e49, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 2
+    sprite: {fileID: 21300000, guid: 92b57d0d602bb3440b90216259555ab2, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 3
+    sprite: {fileID: 21300000, guid: 365ab849f749f1b4799c1674706026dc, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 4
+    sprite: {fileID: 21300000, guid: 05f98f6f0db35644faecfc468508e529, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 5
+    sprite: {fileID: 21300000, guid: 94bc55798e7c0954580426a293f21a72, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 6
+    sprite: {fileID: 21300000, guid: 9d8ffa53c0146a444a9b17c1baab421b, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 7
+    sprite: {fileID: 21300000, guid: c2e3f8ec5e46c4749af040f29f624a98, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 8
+    sprite: {fileID: 21300000, guid: 2f20b71c01a9df6459df1dddb1e1d4f2, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 9
+    sprite: {fileID: 21300000, guid: d6b3fb8b978c45646bb167a2deb6e245, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 10
+    sprite: {fileID: 21300000, guid: 65ee395be9e3faf4fb9e68bbd147494c, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 11
+    sprite: {fileID: 21300000, guid: cf3e9a97f3ca3f34ab668ab96f88eaf8, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 12
+    sprite: {fileID: 21300000, guid: aed2323392d750041b5ef97495ad74ae, type: 3}
+    suit: 2
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 0
+    sprite: {fileID: 21300000, guid: 9a0caa884d9111241a89a36acaa6bf99, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 1
+    sprite: {fileID: 21300000, guid: ca2cbee0d553472479a7e51aafb5dfac, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 2
+    sprite: {fileID: 21300000, guid: b6b55b27c04ed5249b0b4524004c65ad, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 3
+    sprite: {fileID: 21300000, guid: ea821cd308e747442b2177e599cdaeca, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 4
+    sprite: {fileID: 21300000, guid: 159a934ad0942c045b57f3aeffc9ed6a, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 5
+    sprite: {fileID: 21300000, guid: ffa3250ef4f5ca747aa4f9496ef7f3f8, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 6
+    sprite: {fileID: 21300000, guid: 471d468330c483b468cba4de9e85feb6, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 7
+    sprite: {fileID: 21300000, guid: f519c1984c8900144abb8fffb742356b, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 8
+    sprite: {fileID: 21300000, guid: 33663b042b89acc43adf6329b410dbdc, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 9
+    sprite: {fileID: 21300000, guid: 09832f9d06d4497499d71d80127d4687, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 10
+    sprite: {fileID: 21300000, guid: e0f5d31527d7f7944b0ba4dcf485ed41, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 11
+    sprite: {fileID: 21300000, guid: 5d00172810886bb4088965b3dcbcc3a1, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 12
+    sprite: {fileID: 21300000, guid: c7375133a1fd25d4aa8638e7581c9dbb, type: 3}
+    suit: 3
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 0
+    sprite: {fileID: 21300000, guid: 564df6c9ea00ec249a7c3b7eb6a51af3, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 1
+    sprite: {fileID: 21300000, guid: e38fe77de1d7fd84284bf7143c5ad8e0, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 2
+    sprite: {fileID: 21300000, guid: a3cb8f3ad61136343bab6ae74b4f84b8, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 3
+    sprite: {fileID: 21300000, guid: 70cf3509653e7c44bbdce8dcd4e05985, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 4
+    sprite: {fileID: 21300000, guid: f8a1d064e64d7394dac911a7d8409c71, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 5
+    sprite: {fileID: 21300000, guid: c6770000c5aad5649a5756b625fff0a8, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 6
+    sprite: {fileID: 21300000, guid: 23b6f1f780682334c8edfc050a280b3c, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 7
+    sprite: {fileID: 21300000, guid: dba0e12b48248274a8b26843cc7ea171, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 8
+    sprite: {fileID: 21300000, guid: a05e73ed5c60b5c428b884d6cdda6641, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 9
+    sprite: {fileID: 21300000, guid: 7dbe5c96cd4cf5644a7dd7b8766844a2, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 10
+    sprite: {fileID: 21300000, guid: d349c1c634f583644997c00ba8c17136, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 11
+    sprite: {fileID: 21300000, guid: c57172de28464ce4aa8f0f866facca63, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 12
+    sprite: {fileID: 21300000, guid: a87b7dede69abb14a8b91eb28336ce45, type: 3}
+    suit: 4
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 13
+    sprite: {fileID: 21300000, guid: 978c3bd9f94ad414083736070785882c, type: 3}
+    suit: 0
+    texture: {fileID: 0}
+  - pack: {fileID: 11400000}
+    face: 13
+    sprite: {fileID: 21300000, guid: e43491ccd009a4f4aa3bde772ec99110, type: 3}
+    suit: 0
+    texture: {fileID: 0}
+  backSprite: {fileID: 21300000, guid: bc3f9cd41d8c98947a137404f99a6b86, type: 3}
+  backTexture: {fileID: 0}
